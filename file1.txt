@@ -2,3 +2,4 @@ Hello, Git!
 This is my second line.
 Third line added!
 This change is in the new-feature branch!
+First line after adding to GitHub
